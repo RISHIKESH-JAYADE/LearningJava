@@ -32,7 +32,7 @@ class Question9 {
             newNum= newNum*10+lastDigit;
             //System.out.print(lastDigit);
         }
-
+        //if we compare the new number with the original num we can check if they are palindrome.
         return newNum;
 
     }
