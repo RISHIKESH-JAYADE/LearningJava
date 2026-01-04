@@ -94,7 +94,7 @@ public class HackerRankArryList {
             try{
                 System.out.println(lis.get(row).get(column));
              }
-             catch (Exception e){
+             catch (Exception e){ 
                  System.out.println("ERROR!");
              }
         }
